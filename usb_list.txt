@@ -1,0 +1,13 @@
+Bus 001 Device 004: ID 03f0:7029 HP, Inc 
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 003 Device 004: ID 0bda:0329 Realtek Semiconductor Corp. 
+Bus 003 Device 003: ID 0424:5744 Microchip Technology, Inc. (formerly SMSC) Hub
+Bus 003 Device 002: ID 0424:5744 Microchip Technology, Inc. (formerly SMSC) Hub
+Bus 003 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 002 Device 006: ID 0424:2740 Microchip Technology, Inc. (formerly SMSC) 
+Bus 002 Device 005: ID 0424:2660 Microchip Technology, Inc. (formerly SMSC) Hub
+Bus 002 Device 003: ID 0424:2744 Microchip Technology, Inc. (formerly SMSC) Hub
+Bus 002 Device 007: ID 0424:2740 Microchip Technology, Inc. (formerly SMSC) 
+Bus 002 Device 004: ID 046d:c31d Logitech, Inc. Media Keyboard K200
+Bus 002 Device 002: ID 0424:2744 Microchip Technology, Inc. (formerly SMSC) Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
