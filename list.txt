@@ -1,0 +1,9 @@
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 006: ID 1604:10c0 Tascam 
+Bus 001 Device 005: ID 413c:a102 Dell Computer Corp. 
+Bus 001 Device 008: ID 0624:0251 Avocent Corp. Virtual Mass Storage
+Bus 001 Device 009: ID 0624:0249 Avocent Corp. Virtual Keyboard/Mouse
+Bus 001 Device 004: ID 1604:10c0 Tascam 
+Bus 001 Device 003: ID 1604:10c0 Tascam 
+Bus 001 Device 002: ID 0781:5567 SanDisk Corp. Cruzer Blade
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
